@@ -1,4 +1,4 @@
 # personal information
 
-full name: Yubo wang
+full name: Yubo wang  \n
 email: wangyb@bit.edu.cn
